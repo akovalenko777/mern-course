@@ -1,0 +1,6 @@
+{
+    "port":5051,
+    "mongoUri":"mongodb+srv://merndb:npkSN8ZjKV6FAN4t@cluster0.nmxxh.mongodb.net/mern-course?retryWrites=true&w=majority",
+    "jwtSecret":"ouerrnghi7vhn87engh78nercygncg34g4n78",
+    "baseUrl":"http://localhost:5051"
+}
